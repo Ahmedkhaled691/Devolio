@@ -47,7 +47,13 @@ body{
     width: 80%;
     background: rgb(75, 65, 65);
    
-  }
+}
+.show{
+    width: 80%;
+    text-align: center;
+}
+
+
 .layer{
   width: 100%;
   position: absolute;
