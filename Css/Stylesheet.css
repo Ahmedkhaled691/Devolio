@@ -6,6 +6,7 @@ body{
 }
 .navbar{
     transition: all 0.5s;
+    text-align: center;
 }
 .navbar-scrolled{
     background-color: #084080;
@@ -48,10 +49,8 @@ body{
     background: rgb(75, 65, 65);
    
 }
-.show{
-    width: 80%;
-    text-align: center;
-}
+
+
 
 
 .layer{
@@ -382,9 +381,7 @@ height: 40px;
 .ico-cicle a:hover{
     color: #f6f6f6;
 }
-.xxx{
-    width: 12%;
-}
+
 /* Start Section SubHTML*/
 .table-cell2{
     padding-top: 30%;
